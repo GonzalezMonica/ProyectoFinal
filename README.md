@@ -1,10 +1,10 @@
  # ProyectoFinal
 🏥 Sistema de Control Hospitalario
-Este proyecto es una aplicación de Python con Tkinter, diseñada para simular un sistema básico de control hospitalario. Permite al personal médico gestionar camas, asignar pacientes, registrar eventos clínicos y mantener un historial persistente de atención.
+Este proyecto es una aplicación de Python con Tkinter, diseñada para simular un sistema básico de control hospitalario. Permite al personal médico y administrativo gestionar camas, asignar pacientes, registrar eventos clínicos, mantener un historial persistente de atención y eliminar medicos.
 
 # Características principales:
   
-  ~Registro e inicio de sesión de médicos con nombre, especialidad y turno.
+  ~Registro e inicio de sesión de médicos con nombre, especialidad, turno y tu cargo.
 
   ~Asignación automática de camas a nuevos pacientes.
 
@@ -18,7 +18,7 @@ Este proyecto es una aplicación de Python con Tkinter, diseñada para simular u
 
   ~Opción para personalizar la estética del sistema.
 
-  ~Función para resetear todo el sistema (vaciar camas y borrar historial).
+  ~Función para resetear todo el sistema solo para el administrador (borrar medicos y borrar historial).
 
 # Archivos importantes:
 
